@@ -40,9 +40,9 @@ Dashboard helps stakeholders make strategic decisions based on data.
 - Rating distribution analysis
 
 📂 Repository Contents
-- Blinkit_Dashboard.pdf → Final Dashboard Output
+- blinkitanalysis_Saeekadam.pdf → Final Dashboard Output
 - Blinkit_Data.xlsx → Dataset used for analysis
-- Blinkit_Dashboard.pbix → Power BI File
+- blinkitanalysis_Saeekadam.pbix → Power BI File
 
   🚀 How to Use
 1. Download the Excel dataset
